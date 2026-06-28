@@ -95,6 +95,7 @@ print(digit)
 
 
 
+
 ##copy list
 mylist=["apple","banana","cherry"]
 mylist2=mylist.copy()
