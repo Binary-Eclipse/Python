@@ -1,3 +1,5 @@
+ 
+
 # 🐍 Python: Core Theory, Internal Working & Advanced Concepts
 
 > A question-driven guide to understanding how Python works from source code to execution, memory, objects, and advanced runtime behavior.
@@ -173,7 +175,7 @@ Python Operations
 
 | Type         | Example             | Executed By           |
 | ------------ | ------------------- | --------------------- |
-| Source Code  | `x = 10`            | Python implementation |
+| Source Code  | `x = 10`          | Python implementation |
 | Bytecode     | Python instructions | PVM                   |
 | Machine Code | CPU instructions    | CPU                   |
 
